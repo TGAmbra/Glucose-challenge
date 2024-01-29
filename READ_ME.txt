@@ -1,0 +1,1 @@
+Directly run Glucose_forecast_with_GNN_and_FL notebook in Colab. All the checkpoints are saved and only the federated learning part are written with pseudocode.
